@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AndroidEj08Dieta</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_menu_diet">MenuDIETA</string>
+    <string name="tv_titulo">MENU DIETA</string>
+    <string name="cbx_opcion1"/>
+    <string name="cbx_opcion2"/>
+    <string name="cbx_opcion3"/>
+    <string name="btn_generar">GENERAR</string>
+    <string name="tv_resultado"/>
+</resources>
